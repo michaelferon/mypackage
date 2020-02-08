@@ -1,0 +1,14 @@
+Package: mypackage
+Title: Computing means using the .C interface.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Michael",
+           family = "Feron",
+           role = c("aut", "cre"),
+           email = "mjferon@mymail.mines.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package implements a simple C function which computes the mean of a vector.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
